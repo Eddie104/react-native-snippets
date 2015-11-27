@@ -1,12 +1,12 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 getInitialState: function() {
-  return {
-    ${1}: ${2},
-  };
+	return {
+		${1}: ${2},
+	};
 },
 ]]></content>
-  <tabTrigger>gis</tabTrigger>
-  <scope>source.js,source.jsx</scope>
-  <description>object getInitialState()</description>
+	<tabTrigger>gis</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>object getInitialState()</description>
 </snippet>

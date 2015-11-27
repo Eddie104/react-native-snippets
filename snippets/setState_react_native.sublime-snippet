@@ -1,10 +1,10 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 this.setState({
-  ${1}: ${2},
+	${1}: ${2},
 });
 ]]></content>
-  <tabTrigger>tss</tabTrigger>
-  <scope>source.js,source.jsx</scope>
-  <description>componentDidMount()</description>
+	<tabTrigger>tss</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>componentDidMount()</description>
 </snippet>

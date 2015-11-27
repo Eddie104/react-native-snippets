@@ -1,10 +1,10 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 componentDidUpdate: function(prevProps, prevState) {
-  ${1}
+	${1}
 },
 ]]></content>
-  <tabTrigger>cdud</tabTrigger>
-  <scope>source.js,source.jsx</scope>
-  <description>componentDidUpdate(object prevProps, object prevState)</description>
+	<tabTrigger>cdud</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>componentDidUpdate(object prevProps, object prevState)</description>
 </snippet>
