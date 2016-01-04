@@ -1,0 +1,37 @@
+<snippet>
+	<content><![CDATA[
+/* @flow */
+'use strict';
+
+import React, {
+	StyleSheet, 
+	View
+} from 'react-native';
+
+export default class ${1} extends React.Component{
+	constructor(props){
+		super(props);
+		this.state = {
+			${2}: ${3},
+		};
+	}
+	render() {
+		return (
+			<View style={styles.container}>
+				${4}
+			</View>
+		);
+	}
+}
+
+var styles = StyleSheet.create({
+	container: {
+		flex: 1
+	}
+});
+
+]]></content>
+	<tabTrigger>ec-es6</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>Create react-native Class</description>
+</snippet>
