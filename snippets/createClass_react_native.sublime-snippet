@@ -11,15 +11,21 @@ var {
 } = React;
 
 var ${1:Component} = React.createClass({
+	shouldComponentUpdate: function(nextProps, nextState) {
+		return false;
+	},
 	render:function() {
 		return (
-			<View />
+			<View style={styles.container}>
+			</View>
 		);
 	},
 });
 
 var styles = StyleSheet.create({
-
+	container: {
+		flex: 1
+	}
 });
 
 

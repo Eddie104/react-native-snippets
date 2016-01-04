@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+borderRadius: ${1},
+]]></content>
+	<tabTrigger>borderRadius</tabTrigger>
+	<!-- the abbreviation is hilariously `css` -->
+	<!-- actually stands for create style sheet -->
+	<scope>source.js,source.jsx</scope>
+	<description>borderRadius</description>
+</snippet>

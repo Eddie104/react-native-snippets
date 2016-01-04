@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<TouchableWithoutFeedback onPress={${1}} style={${2}}>
+	${4}
+</TouchableWithoutFeedback>
+]]></content>
+	<tabTrigger>TouchableWithoutFeedback</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>TouchableWithoutFeedback</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+flexDirection: 'row',
+]]></content>
+	<tabTrigger>flexDirection</tabTrigger>
+	<!-- the abbreviation is hilariously `css` -->
+	<!-- actually stands for create style sheet -->
+	<scope>source.js,source.jsx</scope>
+	<description>flexDirection row</description>
+</snippet>
