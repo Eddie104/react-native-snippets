@@ -2,7 +2,7 @@
 	<content><![CDATA[
 position: 'absolute',
 ]]></content>
-	<tabTrigger>absolute</tabTrigger>
+	<tabTrigger>position</tabTrigger>
 	<!-- the abbreviation is hilariously `css` -->
 	<!-- actually stands for create style sheet -->
 	<scope>source.js,source.jsx</scope>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+backgroundColor: '${1}',
+]]></content>
+	<tabTrigger>backgroundColor</tabTrigger>
+	<!-- the abbreviation is hilariously `css` -->
+	<!-- actually stands for create style sheet -->
+	<scope>source.js,source.jsx</scope>
+	<description>backgroundColor</description>
+</snippet>

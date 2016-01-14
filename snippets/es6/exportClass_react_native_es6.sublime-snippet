@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-/* @flow */
 'use strict';
 
 import React, {
@@ -9,16 +8,18 @@ import React, {
 } from 'react-native';
 
 export default class ${1} extends React.Component{
+
 	constructor(props){
 		super(props);
 		this.state = {
-			${2}: ${3},
+			: ,
 		};
 	}
+
 	render() {
 		return (
 			<View style={styles.container}>
-				${4}
+				
 			</View>
 		);
 	}

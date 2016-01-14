@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-/* @flow */
 'use strict';
 
 var React = require('react-native');
