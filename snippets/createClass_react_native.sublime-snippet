@@ -10,9 +10,6 @@ var {
 } = React;
 
 var ${1:Component} = React.createClass({
-	shouldComponentUpdate: function(nextProps, nextState) {
-		return false;
-	},
 	render:function() {
 		return (
 			<View style={styles.container}>
