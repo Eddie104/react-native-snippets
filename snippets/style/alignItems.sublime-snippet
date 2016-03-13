@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+alignItems: 'center'
+]]></content>
+	<tabTrigger>alignItems</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>水平对齐</description>
+</snippet>
