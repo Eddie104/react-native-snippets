@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<TouchableOpacity activeOpacity={0.8} onPress={${1}}>
+	${4}
+</TouchableOpacity>
+]]></content>
+	<tabTrigger>TouchableOpacity</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>TouchableOpacity</description>
+</snippet>
