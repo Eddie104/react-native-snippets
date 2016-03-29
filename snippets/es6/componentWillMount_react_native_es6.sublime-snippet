@@ -2,7 +2,7 @@
 	<content><![CDATA[
 componentWillMount() {
 	${1}
-},
+}
 ]]></content>
 	<tabTrigger>componentWillMount</tabTrigger>
 	<scope>source.js,source.jsx</scope>
