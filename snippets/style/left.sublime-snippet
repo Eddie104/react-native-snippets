@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+left: ${1},
+]]></content>
+	<tabTrigger>left</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>left</description>
+</snippet>

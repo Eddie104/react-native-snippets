@@ -6,5 +6,5 @@ static propTypes = {
 ]]></content>
 	<tabTrigger>propTypes</tabTrigger>
 	<scope>source.js,source.jsx</scope>
-	<description>object getDefaultProps()</description>
+	<description>propTypes</description>
 </snippet>

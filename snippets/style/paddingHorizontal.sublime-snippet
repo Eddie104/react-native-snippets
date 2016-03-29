@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+paddingHorizontal: ${1},
+]]></content>
+	<tabTrigger>paddingHorizontal</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>paddingHorizontal</description>
+</snippet>

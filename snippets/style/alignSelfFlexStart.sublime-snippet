@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+alignSelf: 'flex-start',
+]]></content>
+	<tabTrigger>alignSelfFlexStart</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>alignSelf flex-start</description>
+</snippet>

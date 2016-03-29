@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+marginHorizontal: ${1},
+]]></content>
+	<tabTrigger>marginHorizontal</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>marginHorizontal</description>
+</snippet>

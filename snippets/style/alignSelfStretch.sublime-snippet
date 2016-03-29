@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+alignSelf: 'stretch',
+]]></content>
+	<tabTrigger>alignSelfStretch</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>alignSelf stretch</description>
+</snippet>

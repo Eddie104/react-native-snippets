@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flexWrap: 'wrap',
+]]></content>
+	<tabTrigger>flexWrap</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>flexWrap</description>
+</snippet>

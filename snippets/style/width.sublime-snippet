@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+width: ${1},
+]]></content>
+	<tabTrigger>width</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>width</description>
+</snippet>

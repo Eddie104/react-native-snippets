@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <TouchableWithoutFeedback onPress={${1}} style={${2}}>
-	${4}
+	${3}
 </TouchableWithoutFeedback>
 ]]></content>
 	<tabTrigger>TouchableWithoutFeedback</tabTrigger>

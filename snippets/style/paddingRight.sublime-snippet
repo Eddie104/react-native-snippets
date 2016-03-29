@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+paddingRight: ${1},
+]]></content>
+	<tabTrigger>paddingRight</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>paddingRight</description>
+</snippet>

@@ -11,9 +11,6 @@ export default class ${1} extends React.Component{
 
 	constructor(props){
 		super(props);
-		this.state = {
-			: ,
-		};
 	}
 
 	render() {
@@ -32,7 +29,7 @@ let styles = StyleSheet.create({
 });
 
 ]]></content>
-	<tabTrigger>ec-es6</tabTrigger>
+	<tabTrigger>exportClass</tabTrigger>
 	<scope>source.js,source.jsx</scope>
-	<description>Create react-native Class</description>
+	<description>Create react-native export class</description>
 </snippet>

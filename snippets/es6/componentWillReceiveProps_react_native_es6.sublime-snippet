@@ -4,7 +4,7 @@ componentWillReceiveProps(nextProps) {
 	${1}
 }
 ]]></content>
-	<tabTrigger>cwrp-es6</tabTrigger>
+	<tabTrigger>componentWillReceiveProps</tabTrigger>
 	<scope>source.js,source.jsx</scope>
-	<description>componentWillReceiveProps(object nextProps)</description>
+	<description>componentWillReceiveProps</description>
 </snippet>

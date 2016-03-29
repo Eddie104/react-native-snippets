@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+justifyContent: 'flex-start',
+]]></content>
+	<tabTrigger>justifyContentFlexStart</tabTrigger>
+	<!-- the abbreviation is hilariously `css` -->
+	<!-- actually stands for create style sheet -->
+	<scope>source.js,source.jsx</scope>
+	<description>justifyContent flex-start</description>
+</snippet>
