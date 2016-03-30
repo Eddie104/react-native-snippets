@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+borderColor: ${1},
+]]></content>
+	<tabTrigger>borderColor</tabTrigger>
+	<!-- the abbreviation is hilariously `css` -->
+	<!-- actually stands for create style sheet -->
+	<scope>source.js,source.jsx</scope>
+	<description>borderColor</description>
+</snippet>
