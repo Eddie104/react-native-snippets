@@ -4,7 +4,7 @@ this.setState({
 	${1}: ${2}
 });
 ]]></content>
-	<tabTrigger>setState-es6</tabTrigger>
+	<tabTrigger>setState</tabTrigger>
 	<scope>source.js,source.jsx</scope>
 	<description>setState</description>
 </snippet>

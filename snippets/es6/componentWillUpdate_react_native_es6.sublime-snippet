@@ -4,7 +4,7 @@ componentWillUpdate(nextProps, nextState) {
 	${1}
 }
 ]]></content>
-	<tabTrigger>cwu-es6</tabTrigger>
+	<tabTrigger>componentWillUpdate</tabTrigger>
 	<scope>source.js,source.jsx</scope>
-	<description>componentWillUpdate(object nextProps, object nextState)</description>
+	<description>componentWillUpdate</description>
 </snippet>

@@ -4,7 +4,7 @@ componentWillUnmount() {
 	${1}
 }
 ]]></content>
-	<tabTrigger>cwum-es6</tabTrigger>
+	<tabTrigger>componentWillUnmount</tabTrigger>
 	<scope>source.js,source.jsx</scope>
-	<description>componentWillUnmount()</description>
+	<description>componentWillUnmount</description>
 </snippet>

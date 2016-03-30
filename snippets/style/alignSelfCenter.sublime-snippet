@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+alignSlef: 'center',
+]]></content>
+	<tabTrigger>alignSlefCenter</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>alignSlef center</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+justifyContent: 'space-around',
+]]></content>
+	<tabTrigger>justifyContentSpaceAround</tabTrigger>
+	<!-- the abbreviation is hilariously `css` -->
+	<!-- actually stands for create style sheet -->
+	<scope>source.js,source.jsx</scope>
+	<description>justifyContent space-around</description>
+</snippet>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <TouchableOpacity activeOpacity={0.8} onPress={${1}}>
-	${4}
+	${2}
 </TouchableOpacity>
 ]]></content>
 	<tabTrigger>TouchableOpacity</tabTrigger>
