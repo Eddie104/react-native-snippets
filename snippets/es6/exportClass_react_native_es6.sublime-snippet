@@ -2,8 +2,9 @@
 	<content><![CDATA[
 'use strict';
 
-import React, {
-	StyleSheet, 
+import React, { Component } from 'react';
+import {
+	StyleSheet,
 	View
 } from 'react-native';
 
@@ -22,7 +23,7 @@ export default class ${1} extends React.Component{
 	}
 }
 
-let styles = StyleSheet.create({
+const styles = StyleSheet.create({
 	container: {
 		flex: 1
 	}
