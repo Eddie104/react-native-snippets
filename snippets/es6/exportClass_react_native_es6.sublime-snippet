@@ -8,9 +8,9 @@ import {
 	View
 } from 'react-native';
 
-export default class ${1} extends React.Component{
+export default class ${1} extends Component {
 
-	constructor(props){
+	constructor(props) {
 		super(props);
 	}
 

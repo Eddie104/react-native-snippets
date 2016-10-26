@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+resizeMode={"cover"}
+]]></content>
+	<tabTrigger>resizeModeCover</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>图片等比拉伸</description>
+</snippet>

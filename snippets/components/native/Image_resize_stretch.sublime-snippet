@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+resizeMode={"stretch"}
+]]></content>
+	<tabTrigger>resizeModeStrech</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>图片保持原有大小</description>
+</snippet>
