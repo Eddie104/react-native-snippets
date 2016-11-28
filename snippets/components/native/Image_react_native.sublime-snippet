@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<Image source={require('./imgs/${1}.png')}/>
+<Image source={require('../imgs/${1}.png')}/>
 ]]></content>
 	<tabTrigger>Image</tabTrigger>
 	<scope>source.js,source.jsx</scope>
