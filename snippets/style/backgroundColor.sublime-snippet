@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-backgroundColor: '${1}',
+backgroundColor: 'transparent${1}',
 ]]></content>
 	<tabTrigger>backgroundColor</tabTrigger>
 	<!-- the abbreviation is hilariously `css` -->
