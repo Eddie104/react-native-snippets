@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<View style={styles.container}></View>
+<View style={styles.container}>
+</View>
 ]]></content>
 	<tabTrigger>View_</tabTrigger>
 	<scope>source.js,source.jsx</scope>

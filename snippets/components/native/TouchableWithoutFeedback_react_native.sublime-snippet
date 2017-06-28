@@ -1,6 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<TouchableWithoutFeedback onPress={${1}} style={${2}}>
+<TouchableWithoutFeedback
+	onPress={${1}}
+	style={${2}}
+>
 	${3}
 </TouchableWithoutFeedback>
 ]]></content>

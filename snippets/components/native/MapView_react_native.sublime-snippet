@@ -8,7 +8,8 @@
 		latitudeDelta: 0.04,
 		longitudeDelta: 0.04,
 	}}
-	renderRow={${3:(rowData) => ${4:<Text>{rowData\}</Text>}}} />
+	renderRow={${3:(rowData) => ${4:<Text>{rowData\}</Text>}}}
+/>
 ${5}
 ]]></content>
 	<tabTrigger>MapView</tabTrigger>

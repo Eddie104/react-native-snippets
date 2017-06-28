@@ -2,19 +2,24 @@
 	<content><![CDATA[
 'use strict';
 
-import React, { Component } from 'react';
+import React, { PureComponent } from 'react';
 import {
 	StyleSheet,
 	View
 } from 'react-native';
 
-export default class ${1} extends Component {
+export default class ${1} extends PureComponent {
+	
+	static navigationOptions = ({ navigation, screenProps }) => ({
+		title: `${navigation.state.params.title}`,
+	});
 
 	constructor(props) {
 		super(props);
 	}
 
 	render() {
+		const { navigate, goBack } = this.props.navigation;
 		return (
 			<View style={styles.container}>
 				

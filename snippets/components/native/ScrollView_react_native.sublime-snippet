@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<ScrollView
-	style={${2:styles.scrollView}}>
+<ScrollView style={${2:styles.container}}>
 	${3}
 </ScrollView>
 ]]></content>

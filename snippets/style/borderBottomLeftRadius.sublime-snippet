@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+borderBottomLeftRadius: ${1},
+]]></content>
+	<tabTrigger>borderBottomLeftRadius</tabTrigger>
+	<!-- the abbreviation is hilariously `css` -->
+	<!-- actually stands for create style sheet -->
+	<scope>source.js,source.jsx</scope>
+	<description>borderBottomLeftRadius</description>
+</snippet>

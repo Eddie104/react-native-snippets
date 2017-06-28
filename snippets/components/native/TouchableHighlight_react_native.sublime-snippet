@@ -1,6 +1,10 @@
 <snippet>
 	<content><![CDATA[
-<TouchableHighlight onPress={${1}} style={${2}} underlayColor='${3}'>
+<TouchableHighlight
+	onPress={${1}}
+	style={${2}}
+	underlayColor='${3}'
+>
 	${4}
 </TouchableHighlight>
 ]]></content>
