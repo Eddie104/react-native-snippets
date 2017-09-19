@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@inject
+]]></content>
+	<tabTrigger>inject</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>@inject</description>
+</snippet>

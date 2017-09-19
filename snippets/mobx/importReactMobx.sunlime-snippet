@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import { observer, inject } from 'mobx-react/native';
+]]></content>
+	<tabTrigger>importReactMobx</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>import mobx-react</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@observer
+]]></content>
+	<tabTrigger>observer</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>@observer</description>
+</snippet>
