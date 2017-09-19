@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@computed
+]]></content>
+	<tabTrigger>computed</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>@computed</description>
+</snippet>

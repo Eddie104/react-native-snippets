@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@observable
+]]></content>
+	<tabTrigger>observable</tabTrigger>
+	<scope>source.js,source.jsx</scope>
+	<description>@observable</description>
+</snippet>
